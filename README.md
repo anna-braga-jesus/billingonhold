@@ -15,3 +15,9 @@ Esses prints evidenciam que o billing não está ativado ainda no projeto Cloud 
 ![Screenshot from 2023-01-14 18-38-58](https://user-images.githubusercontent.com/107212599/212498528-c7ff7493-835c-4c8d-bd0a-0be668d1ddb6.png)
 
 ![Screenshot from 2023-01-14 18-45-03](https://user-images.githubusercontent.com/107212599/212498526-4275dcea-2cd6-4492-b754-8a5f0a882a4f.png)
+
+Prints da edição do Pipeline de CI/CD com Cloud Build e Terraform
+![image](https://user-images.githubusercontent.com/107212599/212499357-eb6f4e62-a72a-47fb-8c70-a9d8f1b9f5ce.png)
+![Screenshot from 2023-01-14 19-12-38](https://user-images.githubusercontent.com/107212599/212499361-d65d7fdf-09cf-4f4d-9bde-7262ee8ac9b5.png)
+![Screenshot from 2023-01-14 19-12-00](https://user-images.githubusercontent.com/107212599/212499363-3077eeea-b1fb-4088-9edc-ae1bcd81b3c6.png)
+![Screenshot from 2023-01-14 19-10-36](https://user-images.githubusercontent.com/107212599/212499364-f09f22b8-cfd1-426f-a6b2-ba1392e9271e.png)
